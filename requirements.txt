@@ -1,5 +1,3 @@
 aiowsgi==0.7
 https://github.com/quay/appr/archive/37ff9a487a54ad41b59855ecd76ee092fe206a84.zip#egg=appr&cachito_hash=sha256:ee6a0a38bed8cff46a562ed3620bc453141a02262ab0c8dd055824af2829ee5c
 git+https://github.com/quay/appr.git@58c88e4952e95935c0dd72d4a24b0c44f2249f5b#egg=appr
-https://github.com/cachito-testing/cachito-pip-without-deps/tarball/ba2bcd6b1526323ee97d348e2100fce55ac0a35b#egg=appr&cachito_hash=sha256:eb717a741129bf73e34b7d63011ff9ed769a2248
-git+https://github.com/cachito-testing/cachito-pip-without-deps.git@fa1bc3bd53685a2cee37071dfd12d96b9414038e#egg=appr
